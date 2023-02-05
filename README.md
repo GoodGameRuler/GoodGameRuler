@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.dribbble.com/users/374672/screenshots/3295528/compbig.gif)](https://usamant.com)
 <h1 align="center">Hi 👋, I'm Udit Samant</h1>
 <h3 align="center">A passionate data scientist/software developer from Sydney</h3>
 
