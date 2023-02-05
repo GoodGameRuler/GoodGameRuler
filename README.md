@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F747949450591103894%2F&psig=AOvVaw3pmt3UrWOntOsMieYNfVVn&ust=1675684170653000&source=images&cd=vfe&ved=0CA4QjRxqGAoTCMiblY-o_vwCFQAAAAAdAAAAABCXAQ)](https://usamant.com)
+[![MasterHead](https://i.pinimg.com/originals/97/15/c8/9715c8a695e64d0c6b664329387a231e.gif)](https://usamant.com)
 <h1 align="center">Hi 👋, I'm Udit Samant</h1>
 <h3 align="center">A passionate data scientist/software developer from Sydney</h3>
 
