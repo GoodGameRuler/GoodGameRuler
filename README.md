@@ -3,13 +3,16 @@
 <h3 align="center">A passionate data scientist/software developer from Sydney</h3>
 
 - 🌱 Currently specialising and investing in **Operating Systems**:
-  - COMP2017 - Systems Programming (**USYD Course**)
-  - COMP3520 - Operating System Internals (**USYD Course**)
-  - CS520 - Operating Systems (JOS) (**KAIST Graduate Course**)
+  - COMP2017 - Systems Programming (**USYD Course**).
+  - COMP3520 - Operating System Internals (**USYD Course**).
+  - CS520 - Operating Systems (JOS) (**KAIST Graduate Course**).
   - Creating a custom [**POSIX Compliant Shell**](http://github.com/GoodGameRuler/UOS-Shell) in Zig - A memory safe low level programming langauge.
 
-- 🌱 Developing my **Web Development** Skillset: React + NextJS, Vue + Nuxt 3, HTMX + Django, Docker
-  - Intersted In: Web Assembly, Elixir, Go, Kubernetes
+- 🌱 Developing my **Web Development** Skillset: React + Next.JS, Vue + Nuxt 3, HTMX + Django, Docker
+  - Intersted In:
+    - Flutter: For cross-platform application development with performance that matches native applications.
+    - Turbopack: For a modern web bundler that can integrate with Next.JS.
+    - And: Web Assembly, Elixir, Go, Kubernetes, React Native.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
