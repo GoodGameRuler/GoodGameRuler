@@ -6,7 +6,7 @@
   - COMP2017 - Systems Programming (**USYD Course**)
   - COMP3520 - Operating System Internals (**USYD Course**)
   - CS520 - Operating Systems (JOS) (**KAIST Graduate Course**)
-  - (Creating a custom **POSIX Compliant Shell**)[http://github.com/GoodGameRuler/UOS-Shell]
+  - Creating a custom [**POSIX Compliant Shell**](http://github.com/GoodGameRuler/UOS-Shell)
 
 - 🌱 Developing my **Web Development** Skillset: React + NextJS, Vue + Nuxt 3, HTMX + Django, Docker
   - Intersted In: Web Assembly, Elixir, Go, Kubernetes
