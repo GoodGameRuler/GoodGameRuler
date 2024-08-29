@@ -8,7 +8,7 @@
   - CS520 - Operating Systems (JOS) (**KAIST Graduate Course**).
   - Creating a custom [**POSIX Compliant Shell**](http://github.com/GoodGameRuler/UOS-Shell) in Zig - A memory safe low level programming langauge.
 
-- 🌱 Expanding my **Web Development** Skillset: React + Next.JS, Vue + Nuxt 3, HTMX + Django, Docker
+- 🌱 Expanding my **Web Development** Skillset: React + Next.JS, Vue + Nuxt 3, HTMX + Django, Docker, PHP, HTML, CSS, JS
   - Interested In:
     - Flutter: For cross-platform application development with performance that matches native applications.
     - Turbopack: For a modern web bundler that can integrate with Next.JS.
